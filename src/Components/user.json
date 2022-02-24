@@ -1,0 +1,24 @@
+[
+     {
+    "id":1,
+    "name":"sourav",
+    "salray":1200
+     },
+     {
+      "id":4,
+      "name":"debashis",
+      "salray":2500
+       },
+       {
+         "id":3,
+         "name":"Balendra",
+         "salray":2000
+          },
+     {
+        "id":2,
+        "name":"purusottam",
+        "salray":1300
+         }
+      
+
+]
